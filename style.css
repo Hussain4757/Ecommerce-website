@@ -803,11 +803,11 @@ form a{
   }
   
   /* form page login */
-
-  .form-container{
+    
+.form-container{
     width: 250px;
     height: 400px;
-    margin: 10px -10px 15px 10px;
+    margin: 10px -10px 15px 8px;
   }
 
   .form-container form{
