@@ -684,6 +684,11 @@ form a{
 /* Media mobile shape 600 less */
 @media only screen and (max-width: 600px){
 
+.col-3 img{
+    flex-basis: 10%;
+    width: 80vmin;
+    margin-left: 10px;
+  }
 
   .col-3 img{
     width: 110%;
