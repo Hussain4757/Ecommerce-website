@@ -811,7 +811,7 @@ form a{
   }
 
   .form-container form{
-    max-width: 300px;
+    max-width: 250px;
     padding: 0 20px;
     position: absolute;
     top: 130px;
