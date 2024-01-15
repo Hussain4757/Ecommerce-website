@@ -832,4 +832,14 @@ form a{
     transition: transform 1s;
   } 
 
+.form-container form{
+    max-width: 200%;
+    padding: 0 20px;
+    width: 90%;
+    margin-left: 15px;
+    position: absolute;
+    top: 130px;
+    transition: transform 1s;
+  }
+
 }
