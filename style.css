@@ -767,10 +767,20 @@ form a{
 .single-product .col-2{
   margin: 0 10px 0 -10px;
 }
-  .single-product h1 {
+.single-product h1 {
     font-size: 25px;
       
-  }
+}
+
+.row .col-2 img{
+  width: 110%;
+  
+}
+
+.row .col-2 img{
+  margin-right: auto;
+}
+
 
   /* -------------------------Card page----------------- */
 
