@@ -684,18 +684,14 @@ form a{
 /* Media mobile shape 600 less */
 @media only screen and (max-width: 600px){
 
-.categories{
-    margin: 70px 0;
-  }
-
   .col-3 {
-    flex-basis: 50%;
-    min-width: 200px;
+    flex-basis: 20%;
+    min-width: 500px;
     margin-bottom: 30px;
   }
 
   .col-3 img{
-    width: 105%;
+    width: 100%;
   }
   .Give{
     padding-right: 30px;
