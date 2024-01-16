@@ -688,7 +688,7 @@ form a{
     width: 300px;
   }
     
-@media only screen and (max-width: 300px){
+@media only screen and (mix-width: 300px){
 
   .col-3 img{
     width: 280px;
@@ -775,11 +775,11 @@ form a{
 
   .single-product .col-2 img {
     width: auto;
-    padding: auto;
   }
 
   .single-product h1 {
     font-size: 25px;
+      
   }
 
   /* -------------------------Card page----------------- */
