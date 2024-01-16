@@ -685,7 +685,9 @@ form a{
 @media only screen and (max-width: 600px){
 
 .col-3 img{
-    width: 100%;
+    flex-basis: 10%
+    margin-left: auto;
+    width: 120%;
   }
   .Give{
     padding-right: 30px;
