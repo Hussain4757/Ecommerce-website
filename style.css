@@ -682,12 +682,18 @@ form a{
   }
 
 /* Media mobile shape 600 less */
-@media only screen and (mix-width: 600px){
+@media only screen and (max-width: 600px){
 
   .col-3 img{
     width: 280px;
   }
-  .Give{
+    
+@media only screen and (max-width: 300px){
+
+  .col-3 img{
+    width: 280px;
+  }
+}  .Give{
     padding-right: 30px;
   }
   .row {
