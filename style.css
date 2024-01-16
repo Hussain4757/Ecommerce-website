@@ -686,12 +686,8 @@ form a{
 
 .col-3 img{
     flex-basis: 10%;
-    width: 80vmin;
-    margin-left: 10px;
-  }
-
-  .col-3 img{
-    width: 110%;
+    width: 300px;
+    margin-left: auto;
   }
   .Give{
     padding-right: 30px;
