@@ -765,13 +765,8 @@ form a{
   }
 
 .single-product .col-2{
-    padding: 10px 0 10px 0;
-  }
-
-  .single-product .col-2 img {
-    width: auto;
-  }
-
+  margin: 0 10px 0 -10px;
+}
   .single-product h1 {
     font-size: 25px;
       
