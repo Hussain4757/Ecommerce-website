@@ -685,7 +685,8 @@ form a{
 @media only screen and (max-width: 600px){
 
   .col-3 img{
-    width: 280px;
+    width: 250px;
+    
   }
     
 @media only screen and (mix-width: 300px){
