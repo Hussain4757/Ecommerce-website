@@ -764,11 +764,12 @@ form a{
   }
 
 .single-product .col-2{
-    padding: 10px auto 10px 0;
+    padding: 10px 0 10px 0;
   }
 
   .single-product .col-2 img {
     width: auto;
+    padding: 10px 0 10px 0;
   }
 
   .single-product h1 {
