@@ -686,42 +686,8 @@ form a{
 
   .col-3 img{
     width: 250px;
-    
-  }
-    
-@media only screen and (mix-width: 300px){
-
-  .col-3 img{
-    width: 200px;
-
-      
-  /* -------------------product ---------------*/
-  .Quantity{
-    font-size: 20px;
-    margin-right: 150px;
-  } 
-
-  .single-product .row{
-    text-align: left;
-    /* align-items: center; */
-    margin-left: -5px;
-  }
-
-.single-product .col-2{
-    padding: 10px auto 10px 0;
-  }
-
-  .single-product .col-2 img {
-    width: auto;
-  }
-
-  .single-product h1 {
-    font-size: 25px;
-      
-  }
-
-  }
-}  .Give{
+}
+.Give{
     padding-right: 30px;
   }
   .row {
