@@ -781,7 +781,7 @@ form a{
 
   td img{
     /* display: inline; */
-    height: 15vh;
+    width: auto;
     /* height: 9em; */
   }
 
