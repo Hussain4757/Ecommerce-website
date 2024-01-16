@@ -823,20 +823,19 @@ form a{
 
   
 .form-container{
-  width: 90%;
+  width: 270px;
   height: 400px;
   text-align: center;
   padding: 90px 0;
-  /* margin-left: 10%; */
-  /* margin-left: auto; */
+  margin-left: 0px;
+  margin-right: auto;
   box-shadow: 0 0 20px 0px rgb(0, 0, 0,0.1);
   overflow: hidden;
 }
 
 
   .form-container form{
-    width: 90%;
-    margin-left: 15px;
+    width: auto;
     position: absolute;
     top: 130px;
     transition: transform 1s;
@@ -851,5 +850,90 @@ form a{
     top: 130px;
     transition: transform 1s;
   }
-
 }
+
+
+@media only screen and (min-width: 500px){
+ /* form page login */
+
+ .form-container{
+  /* width: 250px; */
+  /* height: 400px; */
+  margin-left: -0%;
+}
+
+
+.form-container{
+width: 300px;
+height: 400px;
+text-align: center;
+padding: 90px 0;
+margin-left: auto;
+/* margin-left: auto; */
+box-shadow: 0 0 20px 0px rgb(0, 0, 0,0.1);
+overflow: hidden;
+}
+
+
+.form-container form{
+  width: auto;
+  margin-left: 15px;
+  position: absolute;
+  top: 130px;
+  transition: transform 1s;
+} 
+
+.form-container form{
+  max-width: 200%;
+  padding: 0 20px;
+  width: 90%;
+  margin-left: 15px;
+  position: absolute;
+  top: 130px;
+  transition: transform 1s;
+}
+}
+
+
+@media only screen and (min-width: 700px){
+  /* form page login */
+ 
+  .form-container{
+   /* width: 250px; */
+   /* height: 400px; */
+   margin-left: -0%;
+ }
+ 
+ 
+ .form-container{
+ width: 300px;
+ height: 400px;
+ text-align: center;
+ padding: 90px 0;
+ margin-left: auto;
+ margin-left: auto;
+ box-shadow: 0 0 20px 0px rgb(0, 0, 0,0.1);
+ overflow: hidden;
+ }
+ 
+ 
+ .form-container form{
+   width: auto;
+   margin-left: 15px;
+   position: absolute;
+   top: 130px;
+   transition: transform 1s;
+ } 
+ 
+ .form-container form{
+   max-width: 200%;
+   padding: 0 20px;
+   width: 90%;
+   margin-left: 15px;
+   position: absolute;
+   top: 130px;
+   transition: transform 1s;
+ }
+ }
+
+
