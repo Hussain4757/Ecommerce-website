@@ -768,8 +768,12 @@ form a{
     /* align-items: center; */
     margin-left: -5px;
   }
-  .single-product .col-2{
-    padding: 10px 20px 10px 0;
+.single-product .col-2{
+    padding: 10px auto 10px 0;
+  }
+
+  .single-product .col-2 img {
+    width: auto;
   }
 
   .single-product h1 {
