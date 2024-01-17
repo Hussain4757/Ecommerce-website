@@ -678,6 +678,24 @@ form a{
     margin-left: 10px;  
   }
 
+      
+/* offer  */
+
+.offer {
+  height: auto;
+  width: 100%;
+  background: radial-gradient(#fff,#ffd6d6);
+  margin-top: 50px;
+  padding-top: 10px;
+}
+.col-2 .offer-img {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-left: 30%;
+  width: 60%;
+}
+
+
 
   }
 
